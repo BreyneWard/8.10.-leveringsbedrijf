@@ -1,0 +1,15 @@
+D:\multimedi\Cscherp\8.10. leveringsbedrijf\bin\Debug\net6.0\8.10. leveringsbedrijf.exe
+D:\multimedi\Cscherp\8.10. leveringsbedrijf\bin\Debug\net6.0\8.10. leveringsbedrijf.deps.json
+D:\multimedi\Cscherp\8.10. leveringsbedrijf\bin\Debug\net6.0\8.10. leveringsbedrijf.runtimeconfig.json
+D:\multimedi\Cscherp\8.10. leveringsbedrijf\bin\Debug\net6.0\8.10. leveringsbedrijf.dll
+D:\multimedi\Cscherp\8.10. leveringsbedrijf\bin\Debug\net6.0\8.10. leveringsbedrijf.pdb
+D:\multimedi\Cscherp\8.10. leveringsbedrijf\obj\Debug\net6.0\8.10. leveringsbedrijf.csproj.AssemblyReference.cache
+D:\multimedi\Cscherp\8.10. leveringsbedrijf\obj\Debug\net6.0\8.10. leveringsbedrijf.GeneratedMSBuildEditorConfig.editorconfig
+D:\multimedi\Cscherp\8.10. leveringsbedrijf\obj\Debug\net6.0\8.10. leveringsbedrijf.AssemblyInfoInputs.cache
+D:\multimedi\Cscherp\8.10. leveringsbedrijf\obj\Debug\net6.0\8.10. leveringsbedrijf.AssemblyInfo.cs
+D:\multimedi\Cscherp\8.10. leveringsbedrijf\obj\Debug\net6.0\8.10. leveringsbedrijf.csproj.CoreCompileInputs.cache
+D:\multimedi\Cscherp\8.10. leveringsbedrijf\obj\Debug\net6.0\8.10. leveringsbedrijf.dll
+D:\multimedi\Cscherp\8.10. leveringsbedrijf\obj\Debug\net6.0\refint\8.10. leveringsbedrijf.dll
+D:\multimedi\Cscherp\8.10. leveringsbedrijf\obj\Debug\net6.0\8.10. leveringsbedrijf.pdb
+D:\multimedi\Cscherp\8.10. leveringsbedrijf\obj\Debug\net6.0\8.10. leveringsbedrijf.genruntimeconfig.cache
+D:\multimedi\Cscherp\8.10. leveringsbedrijf\obj\Debug\net6.0\ref\8.10. leveringsbedrijf.dll
